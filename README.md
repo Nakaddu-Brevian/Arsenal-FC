@@ -27,6 +27,6 @@ https://github.com/deriqtamz/arsenal-webpage.git
 Team :  
 - @derickmugaya  
 - @nakaddubrevian  
-- atukundaclaire  
+- @atukundaclaire  
 - @kirabotreasure  
 - @godicrypto
